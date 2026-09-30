@@ -1,0 +1,36 @@
+{
+  "name": "rapidaid",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@11.25.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "build": "tsc -b && vite build",
+    "typecheck": "tsc -b --pretty false",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
+    "server": "node server/index.js",
+    "start": "node server/index.js",
+    "dev:all": "concurrently -k \"npm:server\" \"npm:dev\"",
+    "verify": "node scripts/verify-endpoints.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "^10.6.1",
+    "express": "^5.2.1",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "postcss": "^8.5.28",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "tailwindcss": "3.4.17",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "concurrently": "^10.0.5",
+    "typescript": "latest"
+  }
+}

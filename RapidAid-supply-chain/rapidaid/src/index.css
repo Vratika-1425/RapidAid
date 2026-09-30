@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #F7F4EC; color: #10201D; font-family: 'Inter', system-ui, sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+::selection { background: #F6B25F; color: #10201D; }
+* { -webkit-tap-highlight-color: transparent; }
+.num { font-variant-numeric: tabular-nums; font-feature-settings: 'tnum'; }
+
+@layer components {
+  .card { @apply rounded-2xl border border-line bg-card shadow-soft; }
+  .label { @apply font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-muted; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all duration-200 active:scale-[.97] disabled:opacity-50 disabled:pointer-events-none; }
+  .btn-primary { @apply btn bg-forest-900 text-white hover:bg-forest-700 hover:shadow-lift; }
+  .btn-ghost { @apply btn border border-line bg-white text-ink hover:border-forest-600 hover:text-forest-700; }
+  .btn-saffron { @apply btn bg-saffron-500 text-ink hover:bg-saffron-400 hover:shadow-lift; }
+  .field { @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-sm outline-none transition focus:border-forest-600 focus:ring-4 focus:ring-forest-100; }
+}
+
+.grid-bg { background-image: linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.06) 1px, transparent 1px); background-size: 44px 44px; mask-image: radial-gradient(ellipse at 60% 40%, #000 30%, transparent 75%); }
+.skeleton { background: linear-gradient(90deg, #efe9da 25%, #f8f4ea 50%, #efe9da 75%); background-size: 200% 100%; animation: shimmer 1.6s linear infinite; border-radius: 12px; }
+.scroll-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+.scroll-thin::-webkit-scrollbar-thumb { background: #d8d1bf; border-radius: 6px; }
+.recharts-tooltip-wrapper { outline: none; }
+@media (prefers-reduced-motion: reduce) { *, ::before, ::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; } }
