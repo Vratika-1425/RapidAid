@@ -265,6 +265,7 @@ RapidAid/
 | Tulip Sahu | Frontend & UI/UX Developer |
 | Vratika Sahota | AI & Backend Developer |
 | Sreeja M | Healthcare & System Integration Lead |
+| Adriel P Joseph | Cloud & DevOps Engineer |
 
 ---
 
