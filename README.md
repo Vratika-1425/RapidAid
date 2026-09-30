@@ -9,6 +9,7 @@
 [![Live demo](https://img.shields.io/badge/Live%20demo-Cloud%20Run-0B3D36?style=for-the-badge&logo=googlecloud&logoColor=white)](https://rapidaid-784619610229.asia-south1.run.app)
 [![Gemini](https://img.shields.io/badge/Google%20AI-Gemini%202.5%20Flash-F29B38?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
 [![Track](https://img.shields.io/badge/Track-Smart%20Health%20%26%20Supply%20Chain-1FA08D?style=for-the-badge)](#the-problem)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-▶%20Watch-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white)](#demo-video)
 
 ### [Open the live prototype](https://rapidaid-784619610229.asia-south1.run.app)
 
