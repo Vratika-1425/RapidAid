@@ -94,11 +94,8 @@ Open the [live demo](https://rapidaid-784619610229.asia-south1.run.app) and foll
 
 <div align="center">
 
-<img 
-  src="https://github.com/user-attachments/assets/967b3f8d-9257-459a-be89-dd24716cbf6a"
-  alt="RapidAid Command Centre, Forecasting, Redistribution and Federated AI"
-  width="900"
-/>
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/a0d6e6ad-57f1-4642-bf76-c3c58935eaa3" />
+
 
 </div>
 
