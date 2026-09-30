@@ -259,6 +259,15 @@ RapidAid/
 - [ ] ABDM / ABHA integration and role-based access per state
 - [ ] Offline-first PHC data entry for low-connectivity areas
 
+## Team
+
+| Name | Role |
+|---|---|
+| Tulip Sahu | Frontend & UI/UX Developer |
+| Vratika Sahota | AI & Backend Developer |
+| Sreeja M | Healthcare & System Integration Lead |
+
+---
 
 
 <div align="center">
