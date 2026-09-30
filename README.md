@@ -93,10 +93,13 @@ Open the [live demo](https://rapidaid-784619610229.asia-south1.run.app) and foll
 | 🗣️ | **Multilingual and voice** | English, Hindi, Tamil, Telugu, Kannada, Bengali and Marathi; speech input and read-aloud. |
 
 <div align="center">
-<img src="docs/screenshots/command.png" alt="Command centre" width="49%" />
-<img src="docs/screenshots/redistribute.png" alt="Redistribution" width="49%" />
-<img src="docs/screenshots/forecast.png" alt="Forecast" width="49%" />
-<img src="docs/screenshots/federated.png" alt="Federated learning" width="49%" />
+
+<img 
+  src="https://github.com/user-attachments/assets/967b3f8d-9257-459a-be89-dd24716cbf6a"
+  alt="RapidAid Command Centre, Forecasting, Redistribution and Federated AI"
+  width="900"
+/>
+
 </div>
 
 ## Where Google AI does the work
