@@ -12,7 +12,7 @@
 
 ### [Open the live prototype](https://rapidaid-784619610229.asia-south1.run.app)
 
-"<img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/967b3f8d-9257-459a-be89-dd24716cbf6a" />
+<img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/967b3f8d-9257-459a-be89-dd24716cbf6a" />
 
 
 </div>
