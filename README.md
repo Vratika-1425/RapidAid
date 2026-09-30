@@ -19,8 +19,6 @@
 
 ## Table of contents
 
-## Table of contents
-
 - [The problem](#the-problem)
 - [Our solution](#our-solution)
 - [Try it in 2 minutes](#try-it-in-2-minutes)
